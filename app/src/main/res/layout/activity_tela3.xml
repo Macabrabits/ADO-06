@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#3370FF"
-    tools:context="com.example.victorhugo.ado5.tela1">
+    android:background="#ff0000"
+    tools:context="com.example.victorhugo.ado5.tela3">
 
 </android.support.constraint.ConstraintLayout>
